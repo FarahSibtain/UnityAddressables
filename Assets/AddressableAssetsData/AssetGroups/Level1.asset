@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  m_GroupName: Level1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d079216fbbb796b48b1f76c6b036337c
+  m_SerializeEntries:
+  - m_GUID: 64dce48905ffd9b4293e595fa6941544
+    m_Address: Assets/StarterAssets/ThirdPersonController/Prefabs/PlayerArmature.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 766fd3ff04aab4745a764d33daac86fa
+    m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Arms.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43714b68324cc2c409d534d9874f2a2b
+    m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Body.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b25e99361ac31d4e9ae83c46aee69ea
+    m_Address: Assets/StarterAssets/ThirdPersonController/Character/Materials/M_Armature_Legs.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8fcfed27562a0e40bb0ad404267fceb
+    m_Address: Assets/Audio/Calm Deep House.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 340ddd93dc394384abeab4e008d31956
+    m_Address: Assets/Textures/snobal_logo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4555db7aad8b3b34482dd431676cfa61
+    m_Address: Assets/StarterAssets/ThirdPersonController/Scenes/Level1.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 541560d861d9084489dbcead3418bfbe
+    m_Address: Assets/StarterAssets/ThirdPersonController/Scenes/Level2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 670d53b1f7cd06c4889fa1c2ad99f836, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ee911fe070e4e5d41966c70727bcac06, type: 2}
+    - {fileID: 11400000, guid: 18a209c5d258ac247981f4df45cc5b47, type: 2}
